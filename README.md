@@ -22,7 +22,8 @@ allow use this application like endpoint third party applications for managing s
 
 ### Installation process
  - Install IntelliJ IDEA (Ultimate Edition) with maven
- - Create new project, use menu File -> New -> Project from Version Control copy past and insert git url [https://github.com/vitaliyzahorenko/cinema-app]
+ - Create new project, use menu File -> New -> Project from Version Control copy past 
+ - and insert git url [https://github.com/vitaliyzahorenko/cinema-web-app]
  - Install MySQL and create empty database 
  - Edit configuration in resources/db.properties file.
  - Install Apache Tomcat 9.0.65
