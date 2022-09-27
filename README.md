@@ -8,7 +8,7 @@ allow use this application like endpoint third party applications for managing s
 
 
 ## Project overview
-### Tchnologies
+### Technologies
 - Java EE 11
 - Java Hibernate
 - Java Spring
